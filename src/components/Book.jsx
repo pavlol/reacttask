@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import {Card} from 'react-bootstrap';
-import * as text from '../text/EN/en-gb';
 
 class Book extends Component{
 

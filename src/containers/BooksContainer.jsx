@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import axios from 'axios';
-import {Link, withRouter } from 'react-router-dom';
-import {Button, Container, Row, Col, Badge,Pagination, PageItem } from 'react-bootstrap';
+import { withRouter } from 'react-router-dom';
+import { Container, Pagination } from 'react-bootstrap';
 import Book from '../components/Book';
 import * as text from '../text/EN/en-gb';
 
